@@ -1,0 +1,2 @@
+# ocserv
+ocserv docker build
